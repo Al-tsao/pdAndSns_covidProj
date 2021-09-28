@@ -1,4 +1,4 @@
-#載入pandas
+#載入模組
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
